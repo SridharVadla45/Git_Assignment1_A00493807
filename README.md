@@ -16,7 +16,6 @@ This repository contains the completed work for Git Assignment #1. It demonstrat
 
 ## Repository Structure
 - `Sridhar_A00493807_Git_Report.pdf`: Final assignment report in PDF format.
-- `Sridhar_A00493807_Git_Report.docx`: Final assignment report in Word format.
 - `Sridhar_A00493807_Git_Report.md`: Source Markdown for the report.
 - `countries.txt`, `shapes.txt`, `numbers.txt`, `bugfix.txt`: Text files created as part of the assignment tasks.
 
